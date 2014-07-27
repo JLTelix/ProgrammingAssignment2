@@ -3,7 +3,7 @@
 
 ## Write a short comment describing this function
 ## This function is an update of the function makeVector.
-## It make a list where will be saved the original matrix, the inverse (if it exists).
+## It make a list where will be saved the original matrix and the inverse (if it exists).
 
 makeCacheMatrix <- function(x = matrix()) {
 m <- NULL
